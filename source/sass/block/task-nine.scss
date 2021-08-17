@@ -1,0 +1,17 @@
+.task-nine {
+  margin-bottom: 30px;
+}
+
+.task-nine__item {
+  display: none;
+  background-color: $gray-background;
+  padding: 8px 30px;
+  text-align: center;
+  color: $gray;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+.task-nine__item p {
+  margin: 0;
+}
